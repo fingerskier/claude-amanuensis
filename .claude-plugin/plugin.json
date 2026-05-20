@@ -1,0 +1,16 @@
+{
+  "name": "amanuensis",
+  "version": "2026.5.20",
+  "description": "A Claude Code plugin that helps authors draft and edit in their own voice — captures style, expands sketches into prose, and runs targeted review passes.",
+  "author": {
+    "name": "Fingerskier"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "editing",
+    "authoring",
+    "voice",
+    "style"
+  ]
+}
