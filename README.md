@@ -1,6 +1,11 @@
 # claude-amanuensis
 Claude as a writing assistant
 
+## Skills
+* `/capture` ~ import voice & style from a file, url, prompt, etc.
+* `/review *` ~ `*` IN (structure, craft, copy, proof)
+* `/expound` ~ generate text based on prompt, files, etc.
+
 ## Review
 1. Developmental (structure/arc)
 2. Line (sentence craft)
